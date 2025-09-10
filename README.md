@@ -1,2 +1,10 @@
-# Data-Science-Portfolio
-This repository is my data science portfolio, and will contain a collection of any data science research and tasks I undertake, to evidence my skills and experience.
+# Data Science Portfolio
+### Technical skills: SQL,Python,Power BI, Power Apps
+
+## Education
+Level 6 Data Science Degree Apprenticeship (BSC Data Science) - May 2025 until Present, due to finish 2027
+Level 4 Data Analytics Apprenticeship - Sept 2023 - March 2025
+
+## Projects
+
+### Fraud Transaction Detection
